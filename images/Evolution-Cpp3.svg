@@ -10,13 +10,13 @@
    
    <g font-family="fantasy,sans-serif">
      <text x="2%" y="1.2em" font-weight="bolder">Évolution du langage C++</text>
-     <text x="10%" y="5.0em">asm</text>
-     <text x="23%" y="5.8em">C</text>
-     <text x="32%" y="4.4em">C++98</text>
-     <text x="43%" y="3.0em">C++03</text>
-     <text x="59%" y="2.5em">C++11</text>
-     <text x="70%" y="2.1em">C++14</text>
-     <text x="84%" y="1.8em">C++17</text>
+     <text x="10%" y="6.0em">asm</text>
+     <text x="23%" y="5.0em">C</text>
+     <text x="32%" y="4.2em">C++98</text>
+     <text x="43%" y="3.5em">C++03</text>
+     <text x="59%" y="2.1em">C++11</text>
+     <text x="70%" y="1.4em">C++14</text>
+     <text x="84%" y="1.0em">C++17</text>
      <text x="84%" y="3em">Cool !</text>
      <text x="84%" y="4em">On va</text>
      <text x="84%" y="5em">pouvoir</text>
