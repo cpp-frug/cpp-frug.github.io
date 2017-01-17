@@ -1,0 +1,9 @@
+[submodule "external/reveal"]
+	path = external/reveal
+	url = https://github.com/hakimel/reveal.js
+[submodule "external/flatdoc"]
+	path = external/flatdoc
+	url = https://github.com/rstacruz/flatdoc
+[submodule "external/remark"]
+	path = external/remark
+	url = https://github.com/gnab/remark
