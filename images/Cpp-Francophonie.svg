@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg version="1.1" viewBox="0 0 401 399" height="50%" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg version="1.1" viewBox="0 0 401 399" width="300" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <title>C++ Francophonie C++FRUG</title>
 <desc>Logo of the C++FRUG (C++ FRench-speaking User Group)</desc>
 <metadata xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -22,7 +22,7 @@
   </cc:License>
  </rdf:RDF>
 </metadata>
-<circle id="background" cx="202" cy="202" r="170" fill="#fff" opacity=".7"/>
+<circle id="background" cx="202" cy="202" r="170" fill="#fff"/>
 <path id="violet" d="m381 105-11 5-25 49c13 61-10 123-62 161l30 41c82-59 110-164 68-256z" fill="#84006b"/>
 <path id="vert" d="m165 1 1 12 38 39c61 6 113 48 133 109l48-15c-27-84-102-153-220-145z" fill="#109c52"/>
 <path id="jaune" d="m0 177 12 3 49-25c24-57 79-94 143-94v-51c-125 2-189 92-204 167z" fill="#ffd600"/>
