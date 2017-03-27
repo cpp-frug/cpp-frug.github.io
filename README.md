@@ -21,7 +21,7 @@ Le même raccourcis clavier permet de commencer et d'arrêter l'enregistrement :
 Un disque rouge symbolisant l'enregistremnt vidéo apparaît (par défaut c'est en haut à droite).
 La vidéo est enregistrée au format WebM dans le dossier Vidéo.
 
-Par contre, il se peut que cette fonctionnalité ne permette pas d'obtenir une vidéo dsur une longue période. Merci de vérifier au préalable.
+Attention, cette fonctionnalité ne permet pas toujours d'obtenir une vidéo sur une longue période (1 heure). Merci de vérifier au préalable.
 
 **XOrg** : Utiliser une application de screencast.  
 Quelques liens listant plusieurs applications :
