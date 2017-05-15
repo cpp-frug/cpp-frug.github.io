@@ -1,4 +1,4 @@
-Site wew statique cppfrug.org
+Site web statique cppfrug.org
 
 
 Merci de proposer des améliorations au contenu ci-dessous.
