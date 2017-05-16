@@ -1,33 +1,73 @@
-Site web statique cppfrug.org
+This Git repository is for the static website cppfrug.org  
+Ce dépôt Git correspond au site web statique cppfrug.org
 
+This README document provide good practices and tips to success C++ meetups.  
+Ce document README fournit de bonnes pratiques et astuces pour réussir les conférences C++.
 
-Merci de proposer des améliorations au contenu ci-dessous.
+The rest of this document is in French only.  
+Ce document est en langue française.
+
+Merci de proposer des améliorations au contenu ci-dessous.   
+Merci d'aider à supprimer ce qui est inutile, raccourcir les prases...  
 Question ? Suggestions ? Correction de fautes d'orthographe ?
 
 
-Prestance oratoire
-==================
+Réussir le contenu de la présentation
+=====================================
 
-Quelques bonne idées afin d'obtenir une conférence dynamique.
+* Surtout ne pas faire subir une présentation ennuyeuse à un public piègé et n'osant pas s'en aller
+* Donc, cerner le public, ce qu'il le fait kifer, ce qu'il souhaite vivre (apprendre/rire/partager)
+* S'assurer que le sujet plaira
+* Raconter une histoire: ammener le sujet et déroluer le fil conducteur jusqu'à la conclusion
+* Simplifier ses slides quite à en faire plusieurs: quelques éléments dans un organigramme, cinq est un maximum, à partir de sept, la majorité du public ne suit plus
+* Utiliser une grosse police de caractère, par respect de la vue qui baisse des plus anciens, et pour se forcer à écrire des phrases peu nombreuses et courtes, quite à en dire plus verballement ou à présenter une idée complexe en plusieurs slides. De préférence, des couleurs adaptées aux daltoniens, bien contrastées et une police lisible (sans sérif, Gilles Sans et Souvenirs Lt)
+* Attention au piège de la liste à puces, présenter plutôt une idée par slide. Sinon, penser à faire apparaître les points l'un après l'autre, et non d'un coup, pour éviter que le public ne lise tous les points avant d'écouter.
 
+
+Réussir sa prestance oratoire
+=============================
+
+* Ne pas boire avant de monter sur scène (aller aux toilettes avant, déjà vécu)
+* Penser à la petite bouteille d'eau pour se désalterer une gorge désechée
+* Respirer, souffler l'air avec son ventre, ne pas oublier de continuer de respirer ;)
+* Dire bonjour :)
+* Énergie et bonne humeur : Sourir, communiquer son enthousiasme, partager sa passion.
+* 80% de la communication humaine est non verbale. Donc bouger des bras, mais pas de tiques. S'éloigner de l'ordinateur et passer les slides avec une télécommande. 
+* Quand les mots sont importants, marquer une pause avant de les prononcer. Faire de même aux moments clefs de la présentation : créer un silence avant de parler pour dérouler un tapis rouge à ce que l'on s'apprête à dire. De plus cette technique donne l'impression d'être calme et confiant.
 * Créer de l'interactivité, inciter les spectateurs à réagir, faire des sondages, demander si des spectateurs veulent que l'on ralentisse le rythme...
-* Pour inciter les spectateurs à lever la main, lever soit même la main à chaque question.
+* Essayer d'alterner deux phases : présentation d'une idée puis observer les hochements de tête affirmatifs. Recommencer encore afin de créer une relation avec le public.
+* Faire participer le public, en proposant des sondage "Qui pense que c'est une bonne idée ?", "Qui pense que ce n'est pas une bonne idée ?". Inciter les spectatuers à lever la main en levant soit même la main à chaque question.
 * Faire rire, raconter des histoires, des jeux de mots, être souriants...
 * On peut même préparer à l'avance des interactions drôles avec des amis dans le public...
 * Quand un participant pose une question, il faut se forcer à la répéter à voix haute, car bien souvent les autres spectateurs n'ont pas bien entendu le timide du premier rang qui pose une question en chuchotant. En plus, cela permet de vérifier que le conférencier à bien compris la question. Le top du top et de reformuler la question et de demander confirmation avant de répondre. Cela permet aussi de laisser un peu de temps à son cerveau pour préparer la réponse.
+* Répéter et s'entrainer à la prise de parole en public. D'après l'étude canadienne de Dave Paradi 74% des personnes interrogées détestent les orateurs qui lisent leur slide.
+* Pour destresser, imaginer parler qu'à une seule personne installée au fond. Le "vous" correspond alors au "vous" de politesse. 
 
 
 
-Vidéo de qualité
-================
 
-Ce chapitre propose des conseils afin d'obtenir des vidéos réussies.
+
+Vidéo réussie
+=============
+
+Afin d'obtenir des vidéos réussies, ce chapitre apporte de très nombreux conseils. Ces conseils sont issus des retours d'expérience d'un professionel de la captation audio-visuelle sur le conférences C++.
 
 
 Présentation sous licence libre
 -------------------------------
 
 Est-ce que le conférencier veut bien partager sa présentation sous licence libre ?
+
+Les slides (et la prestance oratoire) sont considérés comme une oeuvre de l'esprit et c'est le droit d'auteur qui s'applique. La vidéo reproduit cette oeuvre, donc c'est une oeuvre dérivée de la présentation.
+
+En droit d'auteur (en France comme la plupart des pays), les oeuvres dérivés ne peuvent pas être légalement publiées sans l'autorisation de l'auteur de l'oeuvre originale. Par exemple, il n'est pas légal de publier sur son blog une photo d'un immeuble de La Défense, ou d'un tableau acheté à un peintre. En droit de France, il faut attendre 70 ans après le décès de l'auteur pour que l'oeuvre tombe dans le domaine public, et permettre la publication de ces photos.
+
+Le plus simple est d'opter pour la licence CC BY-SA (choisir la version de son choix). Cette licence permet, de partager le contenu de son oeuvre (et de toutes ses oeuvres dérivées) pour une dépêche sur LinuxFr.org, ZesteDeSavoir.com ou Wikipédia (attention les textes sur Wikipédia sont actuellement sous CC BY-SA 3.0 qui ne peuvent être enrichis avec du texte sous CC BY-SA 4.0).
+
+Les slides de la présentation et la vidéo respectent le copyright de l'auteur original en indiquant ces mentions :
+
+> Copyright 2017 NonDeLAuteur <le-mail@est-optionnel.com>
+> Licence CC BY-SA v3.0 (ou v4.0 ou ...) 
 
 
 Qui veut bien être filmé ?
