@@ -15,42 +15,55 @@ Question ? Suggestions ? Correction de fautes d'orthographe ?
 Réussir le contenu de la présentation
 =====================================
 
-* Surtout ne pas faire subir une présentation ennuyeuse à un public piègé et n'osant pas s'en aller
-* Donc, cerner le public, ce qu'il le fait kifer, ce qu'il souhaite vivre (apprendre/rire/partager)
-* S'assurer que le sujet plaira
-* Raconter une histoire: ammener le sujet et déroluer le fil conducteur jusqu'à la conclusion
-* Simplifier ses slides quite à en faire plusieurs: quelques éléments dans un organigramme, cinq est un maximum, à partir de sept, la majorité du public ne suit plus
-* Utiliser une grosse police de caractère, par respect de la vue qui baisse des plus anciens, et pour se forcer à écrire des phrases peu nombreuses et courtes, quite à en dire plus verballement ou à présenter une idée complexe en plusieurs slides. De préférence, des couleurs adaptées aux daltoniens, bien contrastées et une police lisible (sans sérif, Gilles Sans et Souvenirs Lt)
-* Attention au piège de la liste à puces, présenter plutôt une idée par slide. Sinon, penser à faire apparaître les points l'un après l'autre, et non d'un coup, pour éviter que le public ne lise tous les points avant d'écouter.
+1. Surtout ne pas faire subir une présentation ennuyeuse à un public piègé et n'osant pas s'en aller
+2. Donc, cerner le public, ce qu'il le fait kifer, ce qu'il souhaite vivre (apprendre/rire/partager)
+3. S'assurer que le sujet plaira
+4. Raconter une histoire: ammener le sujet et déroluer le fil conducteur jusqu'à la conclusion
+5. Simplifier ses slides quite à en faire plusieurs: quelques éléments dans un organigramme, cinq est un maximum, à partir de sept, la majorité du public ne suit plus
+6. Utiliser une grosse police de caractère, par respect de la vue qui baisse des plus anciens, et pour se forcer à écrire des phrases peu nombreuses et courtes, quite à en dire plus verballement ou à présenter une idée complexe en plusieurs slides. De préférence, des couleurs adaptées aux daltoniens, bien contrastées et une police lisible (sans sérif, Gilles Sans et Souvenirs Lt)
+7. Attention au piège de la liste à puces. Présenter plutôt une idée par slide. Sinon, penser à faire apparaître les points l'un après l'autre, et non d'un coup, pour éviter que le public ne se mette à lire tous les points au lieu d'écouter.
 
 
 Réussir sa prestance oratoire
 =============================
 
-* Ne pas boire avant de monter sur scène (aller aux toilettes avant, déjà vécu)
-* Penser à la petite bouteille d'eau pour se désalterer une gorge désechée
-* Respirer, souffler l'air avec son ventre, ne pas oublier de continuer de respirer ;)
-* Dire bonjour :)
-* Énergie et bonne humeur : Sourir, communiquer son enthousiasme, partager sa passion.
-* 80% de la communication humaine est non verbale. Donc bouger des bras, mais pas de tiques. S'éloigner de l'ordinateur et passer les slides avec une télécommande. 
-* Quand les mots sont importants, marquer une pause avant de les prononcer. Faire de même aux moments clefs de la présentation : créer un silence avant de parler pour dérouler un tapis rouge à ce que l'on s'apprête à dire. De plus cette technique donne l'impression d'être calme et confiant.
-* Créer de l'interactivité, inciter les spectateurs à réagir, faire des sondages, demander si des spectateurs veulent que l'on ralentisse le rythme...
-* Essayer d'alterner deux phases : présentation d'une idée puis observer les hochements de tête affirmatifs. Recommencer encore afin de créer une relation avec le public.
-* Faire participer le public, en proposant des sondage "Qui pense que c'est une bonne idée ?", "Qui pense que ce n'est pas une bonne idée ?". Inciter les spectatuers à lever la main en levant soit même la main à chaque question.
-* Faire rire, raconter des histoires, des jeux de mots, être souriants...
-* On peut même préparer à l'avance des interactions drôles avec des amis dans le public...
-* Quand un participant pose une question, il faut se forcer à la répéter à voix haute, car bien souvent les autres spectateurs n'ont pas bien entendu le timide du premier rang qui pose une question en chuchotant. En plus, cela permet de vérifier que le conférencier à bien compris la question. Le top du top et de reformuler la question et de demander confirmation avant de répondre. Cela permet aussi de laisser un peu de temps à son cerveau pour préparer la réponse.
-* Répéter et s'entrainer à la prise de parole en public. D'après l'étude canadienne de Dave Paradi 74% des personnes interrogées détestent les orateurs qui lisent leur slide.
-* Pour destresser, imaginer parler qu'à une seule personne installée au fond. Le "vous" correspond alors au "vous" de politesse. 
+1. Ne pas boire avant de monter sur scène (aller aux toilettes avant, déjà vécu).
+2. Penser à la petite bouteille d'eau pour se désalterer une gorge désechée.
+3. Respirer, souffler l'air avec son ventre, ne pas oublier de respirer ;)
+4. Pour destresser, imaginer parler qu'à une seule personne installée au fond. Le "vous" correspond alors au "vous" de politesse.
+5. Dire bonjour :)
+6. Énergie et bonne humeur : Sourir, communiquer son enthousiasme, partager sa passion.
+7. 80% de la communication humaine est non verbale. Donc bouger des bras, mais pas de tiques. S'éloigner de l'ordinateur et passer les slides avec une télécommande. 
+8. Quand les mots sont importants, marquer une pause avant de les prononcer. Faire de même aux moments clefs de la présentation : créer un silence pour dérouler un tapis rouge à ce que l'on s'apprête à dire. De plus cette technique donne l'impression d'être calme et confiant.
+9. Essayer d'alterner deux phases : présentation d'une idée puis attendre les hochements de tête affirmatifs. Recommencer encore afin de créer une relation avec le public.
+10. Créer de l'interactivité, inciter les spectateurs à réagir, demander si des spectateurs veulent que l'on ralentisse le rythme, proposer des sondage comme "Qui pense que c'est une bonne idée ?", "Qui pense que ce n'est pas une bonne idée ?". Inciter les spectatuers à lever la main en levant soit même la main à chaque question.
+11. Faire rire, raconter des histoires, des jeux de mots, être souriants... On peut même préparer à l'avance des interactions drôles avec des amis dans le public...
+12. Quand un participant pose une question, il faut se forcer à la répéter à voix haute, car bien souvent les autres spectateurs n'ont pas bien entendu le timide du premier rang qui chuchote. En plus, cela permet au participant de vérifier que le conférencier à bien compris la question. Le top du top et de reformuler la question et de demander confirmation avant de répondre. Cela permet aussi de laisser un peu de temps à son cerveau pour préparer la réponse.
+13. D'après l'étude canadienne de Dave Paradi 74% des personnes interrogées détestent les orateurs qui lisent leur slide. Apprendre par coeur ses slides. Répéter et s'entrainer à la prise de parole en public.
 
 
+Réussir la vidéo de la conférence
+=================================
 
+Les conseils de ce chapitre sont issus des retours d'expérience d'un professionel de la captation audio-visuelle sur les conférences C++.
 
+Questionnaire rapide
+--------------------
 
-Vidéo réussie
-=============
-
-Afin d'obtenir des vidéos réussies, ce chapitre apporte de très nombreux conseils. Ces conseils sont issus des retours d'expérience d'un professionel de la captation audio-visuelle sur le conférences C++.
+1. Couleur de fond de la présentation ?  
+   Texte clair sur fond noir ?  
+1. Quels logiciels utiliseras tu pour la présentation ?  
+   PowerPoint ? Navigateur web ?  
+   Démo avec un terminal, shell, ligne de commande ?  
+2. Sur que OS ?  
+   Windows, Mac, Linux ?  
+3. Sur ta machine ?  
+   Ou n'importe quel ordi ?  
+   Quelles sorties vidéos ?  
+4. Connais-tu le screencast ?   
+   Quel logiciel as tu l'habitude d'utiliser ?  
+5. Quelle licence pour ton support de présentation ?  
+   Quelle licence pour l'oeuvre dérivée qu'est le montage vidéo de ta prestation oratoire ?
 
 
 Présentation sous licence libre
@@ -66,8 +79,8 @@ Le plus simple est d'opter pour la licence CC BY-SA (choisir la version de son c
 
 Les slides de la présentation et la vidéo respectent le copyright de l'auteur original en indiquant ces mentions :
 
-> Copyright 2017 NonDeLAuteur <le-mail@est-optionnel.com>
-> Licence CC BY-SA v3.0 (ou v4.0 ou ...) 
+> Copyright 2017 NonDeLAuteur (email@optionnel.com)  
+> Licence CC BY-SA v3.0 (ou v4.0 ou ...)
 
 
 Qui veut bien être filmé ?
@@ -81,6 +94,39 @@ Le plus simple est de réserver une zone dans la salle où aucun gros plan ne se
 Des autocollants peuvent même être distribués à l'arrivée afin d'identifier ces personnes et de leur inciter à de se mettre au fond de la salle, cachés derrière les premiers rangs.
 
 Cela permet aussi quand une personne pose une question de ne pas le filmer en plein écran, mais de présenter un plan large du public, ou le conférencier qui écoute, ou le slide en cours sur la vidéo finale. 
+
+
+Enregistreur audio
+------------------
+
+Une vidéo d'une conférence avec un son peu audible est une vidéo inutile. Non seulement, la voix du conférencier doit être enregistrée, mais en plus les questions du public et également la réaction du public (rires, applaudissement...). Ce qui fait trois sources audio idéalement.
+
+Certaines salles sont équipées de haut-parleurs. Cela permet de connecter l'enregistreur numérique au niveau des [connectiques XLR](https://fr.wikipedia.org/wiki/XLR) de l'[alimentation Fantôme](https://fr.wikipedia.org/wiki/Alimentation_fantôme]. Si jamais la communication sans fil est déconnectée entre le micro et l'alimentation Fantôme, le conférencier s'en rend compte tout de suite car il n'entend plus sa voix sur les haut-parleurs.
+
+Quand il n'y a pas de retour audio, le dandger est d'oublier d'allumer le micro cravatte ou que le conférencier crée un bruit désagréable en frottant en permanance le microphone cravatte...
+
+Penser aussi à retirer le dead-cat (moumoute antibruit du vent) du micro de la caméra car cela capte moins bien le son.
+
+Quand nous ne pouvons compter que sur l'enregistreur audio comme seule source audio, le poser au sol entre le conférencier et le pubic. Par contre, le rendu est mauvais pour les questions du public. Un "assistant" assis au premier rang peut améliorer la qualité audio : Celui-ci tient l'enregistreur à l'aide d'une poignée + suspension et le dirige en permanence vers le conférencier. A la fin, il oriente également l'enregistreur vers ceux qui posent des questions.
+
+
+
+Préférer le 1080p 25fps
+-----------------------
+
+En basse lumière (quand ce n'est pas le soleil qui éclaire), vaut mieux être en 30 ou mieux **25 fps**.
+Et pour le recadrage, vaut mieux partir sur du **1080p**.
+
+Au delà de 1080p, par exemple avec une caméra 4K, l'optique utilise un diaphragme plus ouvert pour capter davantage de lumière, ce qui a pour conséquence mécanique de réduire la profondeur de champs, et donc de créer du flou devant et derrière la partie sur laquelle le focus est réglé. Par contre, pour filmer le public, ce n'est pas une bonne idée (premiers ou derniers rangs floutés). Pour filmer le conférencier, ce n'est pas gênant si celui-ci n'a pas de movement en avant-arrière. Mais peu d'intérêt à filmer le visage du conférencier en 4K si celui-ci se retrouve dans une miniature.
+
+
+Éclairage du conférencier
+-------------------------
+
+Mieux est éclairé le conférencier, mieux sera la qualité de la vidéo finale (moins de bruit parasite).
+Donc dénicher un projecteur ou un softbox (boîte à lumière) et le positionner devant le conférencier.
+Le positionner au sol afin de ne pas géner le public, et l'orienter vers le plafond pour obtenir une lumière diffuse.
+Attention, aux ombres sur le visage crés par les certains plafoniers...
 
 
 Mur noir est uniforme derrière le conférencier
@@ -138,6 +184,22 @@ Limiter ses déplacement pendant la présenation
 Le cameraman va essayer de suivre le conférencier pendant toute sa conférence, mais anticiper les mouvements de le conférencier n'est pas toujours facile. De plus, pour obtenir le conférencier net dans une salle obscure, le focus doit être adapté en fonction de la distance entre la caméra et le conférencier. Sans parler que se concentrer sur les mouvements du conférencier pendant toute la présentation ne permet pas de bien s'occuper des autres aspects de la captation audio-visuelle de la conférence (fonctionnement des autres caméras, éclairage, enrigistruer audio...).
 
 
+Bien positionner les trois caméras
+----------------------------------
+
+Le caméraman est placé en diagonale du conférencier par rapport au public : Si le conférencier se trouve à gauche de l'écran, le caméraman se trouvera en arrière droite. Le caméraman contrôle deux caméras. Et une troisième caméra filme en mode autonome le public.
+
+1. **Caméra 1 - Plan serré du conférencier**
+   Concerne la majorité des plans que l'on verra dans le montage final.  
+2. **Caméra 2 - Plan d'ensemble de l'intervenant et de l'écran de projection**
+   Cette caméra ne sert pas à grand chose, sauf à la fin lorsqu'il y a des questions du public.  
+   Cette caméra sert surtout de sécurité en permettant de caler les slides si le screencast n'a pas fonctionné.
+3. **Caméra 3 - Plan du public**
+   C'est toujours cool d'avoir un retour sur les réactions du public (rire, interpellations..). Cette vue permet d’immerger le spectateur dans l'ambiance de la conférence. Le cadrage n'est pas à négliger, et si c'est une gopro, le vérifier avec l'application sur mobile. Placer cette caméra en hauteur (en plongée) en utilisant par exemple les structures qui supportent des enceintes ou des spot de lumière. 
+
+Par contre, avec ce protocole de prise de vue, le public est de dos lors des questions. Et il est difficile de filmer les personnes qui sont dans les recoins.
+
+
 Faire des essais avec le caméraman
 ----------------------------------
 
@@ -146,6 +208,12 @@ Si la salle est équipée en éclairages réglables, ceux-ci sont également ada
 Dans tous les cas, le cameraman en profitera pour faire le réglage des blancs.
 
 
+Habiller l'incrustation vidéo et les slides
+-------------------------------------------
+
+L'habillage a une grande importance car il reflète l'identité. Le téléspectateur l'aura toujours devant les yeux. Passer du temps à bien définir cet habillage et le réutiliser à chaque conférence filmée.
+
+L'habillage vidéo est déterminé avant le tournage. C'est en fonction de l'habillage, que le caméraman effectue le cadrage vidéo (horizontal, vertical, carré..).
 
 
 
