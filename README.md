@@ -208,6 +208,19 @@ Si la salle est équipée en éclairages réglables, ceux-ci sont également ada
 Dans tous les cas, le cameraman en profitera pour faire le réglage des blancs.
 
 
+Attendre le GO du cameraman avant de commencer sa présentation
+--------------------------------------------------------------
+
+Les caméras et l'enregistreur audio ne tournent pas en permanence.
+Et le caméraman peut être surpris du démarrage de votre intervention.
+Donc avant de prendre parole, prévenir le caméraman puis garder le contact avec son regard du caméraman.
+Le cameraman a besoin de quelques petites minutes pour activer les caméras, vérifier les réglages, la mise au point, le cadrage. Mais aussi activer et vérifier le bon fonctionnement de l'enregistreur audio, et de l'enregistreur de l'écran de présentaion (screencast ou boitier connecter en HDMI). Le cameraman peut s'appercevoir que l'éclairage ou le décor a besoin d'âtre ajusté. 
+
+Commencer la présentation dès que le cameraman signale que tout est OK.
+
+> Silence... Moteur... Action !
+
+
 Habiller l'incrustation vidéo et les slides
 -------------------------------------------
 
